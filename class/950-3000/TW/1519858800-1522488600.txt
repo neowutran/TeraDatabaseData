@@ -1,9 +1,9 @@
-Sorcerer:33
-Mystic:45
 Valkyrie:15
-Archer:39
-Gunner:24
-Berserker:36
-Brawler:54
-Warrior:21
 Priest:33
+Warrior:21
+Gunner:24
+Archer:39
+Mystic:45
+Sorcerer:33
+Brawler:54
+Berserker:36
