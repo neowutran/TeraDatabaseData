@@ -1,5 +1,5 @@
+Archer:1862916
 Lancer:1070578
 Gunner:2104874
-Archer:1862916
-Warrior:2116182
 Mystic:56904
+Warrior:2116182
