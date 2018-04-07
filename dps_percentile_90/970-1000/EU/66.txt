@@ -1,0 +1,5 @@
+Warrior:2517506
+Mystic:58769
+Archer:2053859
+Gunner:2319585
+Lancer:959816
