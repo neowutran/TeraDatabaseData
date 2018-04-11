@@ -1,0 +1,7 @@
+Lancer:12
+Priest:6
+Sorcerer:6
+Warrior:9
+Mystic:15
+Valkyrie:15
+Reaper:12

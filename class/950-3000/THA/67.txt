@@ -1,0 +1,11 @@
+Priest:63
+Sorcerer:42
+Reaper:21
+Gunner:21
+Valkyrie:63
+Slayer:42
+Mystic:42
+Archer:21
+Warrior:21
+Lancer:63
+Brawler:21

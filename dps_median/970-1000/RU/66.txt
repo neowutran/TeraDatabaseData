@@ -1,0 +1,7 @@
+Lancer:922803
+Priest:7131
+Sorcerer:2364470
+Warrior:2226761
+Mystic:31517
+Valkyrie:2082105
+Reaper:2319869

@@ -1,0 +1,3 @@
+Valkyrie:6
+Mystic:6
+Warrior:18
