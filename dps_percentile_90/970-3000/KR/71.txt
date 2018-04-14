@@ -1,0 +1,8 @@
+Priest:220469
+Berserker:2471347
+Valkyrie:1261779
+Reaper:2456678
+Ninja:1811898
+Mystic:300607
+Lancer:1367504
+Sorcerer:1654948

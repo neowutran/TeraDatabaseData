@@ -1,0 +1,8 @@
+Priest:12
+Berserker:9
+Valkyrie:3
+Reaper:3
+Ninja:9
+Mystic:3
+Lancer:12
+Sorcerer:9

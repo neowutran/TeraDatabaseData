@@ -1,11 +1,11 @@
 Priest:63
-Sorcerer:42
+Brawler:21
 Reaper:21
-Gunner:21
-Valkyrie:63
-Slayer:42
-Mystic:42
 Archer:21
 Warrior:21
+Gunner:21
+Sorcerer:42
+Valkyrie:63
+Mystic:42
+Slayer:42
 Lancer:63
-Brawler:21

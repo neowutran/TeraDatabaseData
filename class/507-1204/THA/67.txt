@@ -1,1 +1,2 @@
+Priest:3
 Berserker:3

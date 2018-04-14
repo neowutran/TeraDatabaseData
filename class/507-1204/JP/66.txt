@@ -1,0 +1,7 @@
+Brawler:255
+Berserker:144
+Slayer:120
+Mystic:249
+Priest:265
+Warrior:255
+Lancer:255
