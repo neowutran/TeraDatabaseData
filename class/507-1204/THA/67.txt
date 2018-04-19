@@ -1,2 +1,3 @@
-Berserker:3
 Priest:3
+Warrior:6
+Berserker:9

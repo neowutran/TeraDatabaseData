@@ -1,0 +1,4 @@
+Mystic:12
+Berserker:24
+Lancer:12
+Brawler:12
