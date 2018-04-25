@@ -1,3 +1,6 @@
-Priest:862723
-Warrior:707923
+Lancer:626744
 Berserker:234260
+Warrior:707923
+Brawler:1124026
+Mystic:621101
+Priest:862723
