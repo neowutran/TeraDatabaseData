@@ -1,10 +1,10 @@
+Brawler:831
+Slayer:234
+Warrior:480
+Lancer:454
 Gunner:6
-Mystic:612
+Priest:450
 Archer:3
-Lancer:445
-Reaper:3
-Priest:447
+Mystic:621
 Berserker:495
-Slayer:228
-Brawler:825
-Warrior:471
+Reaper:3

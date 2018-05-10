@@ -1,0 +1,9 @@
+Sorcerer:1728585
+Warrior:3112722
+Archer:2625863
+Priest:18375
+Gunner:2946732
+Brawler:2536539
+Berserker:2557081
+Mystic:179164
+Lancer:829461
