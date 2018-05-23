@@ -1,0 +1,7 @@
+Warrior:54
+Lancer:15
+Priest:30
+Archer:9
+Slayer:15
+Brawler:15
+Ninja:12

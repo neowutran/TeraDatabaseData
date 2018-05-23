@@ -1,0 +1,3 @@
+Berserker:3
+Mystic:9
+Priest:3
