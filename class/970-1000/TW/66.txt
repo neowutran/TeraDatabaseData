@@ -1,11 +1,11 @@
-Lancer:24
+Mystic:24
 Reaper:6
-Brawler:12
+Lancer:24
+Slayer:21
 Warrior:21
-Archer:27
 Valkyrie:9
 Gunner:18
-Mystic:24
-Sorcerer:30
-Slayer:21
 Priest:18
+Sorcerer:30
+Brawler:12
+Archer:27
