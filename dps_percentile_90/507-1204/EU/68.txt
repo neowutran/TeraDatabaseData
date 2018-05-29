@@ -1,4 +1,5 @@
-Mystic:450456
-Lancer:320489
 Berserker:662801
+Mystic:997136
+Lancer:320489
+Brawler:1125038
 Slayer:457825

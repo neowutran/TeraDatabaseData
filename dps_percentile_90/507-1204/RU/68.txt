@@ -1,4 +1,5 @@
-Slayer:603998
 Brawler:1136820
-Priest:922068
+Slayer:603998
 Berserker:696093
+Priest:922068
+Warrior:614218

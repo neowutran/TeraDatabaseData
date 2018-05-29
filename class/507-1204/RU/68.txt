@@ -1,4 +1,5 @@
+Brawler:9
 Slayer:3
-Brawler:6
+Berserker:9
 Priest:3
-Berserker:6
+Warrior:6
