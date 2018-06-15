@@ -1,0 +1,13 @@
+Sorcerer:829
+Valkyrie:231
+Warrior:2804
+Ninja:505
+Lancer:1247
+Archer:1680
+Priest:1346
+Mystic:1670
+Reaper:129
+Berserker:806
+Brawler:1482
+Gunner:350
+Slayer:698

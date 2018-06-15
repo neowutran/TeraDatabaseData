@@ -1,3 +1,4 @@
+Mystic:866186
 Priest:583501
 Berserker:645593
-Mystic:866186
+Warrior:1201500
