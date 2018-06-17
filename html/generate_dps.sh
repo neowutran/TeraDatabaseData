@@ -55,7 +55,7 @@ for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
    for boss in $(ls ../dps/ | grep $dungeon-) ; do
       bossid=$(echo "$boss" | cut -d '-' -f 2)
       bossname=$(get_boss_name $dungeon $bossid)
-      echo "<a role=\"button\" class=\"btn btn-primary btn-lg btn-block\" href=\"https://neowutran.ovh/dps-$boss.html\">$bossname</a>" >> $indexfile
+      echo "<a role=\"button\" class=\"btn btn-primary btn-lg btn-block\" href=\"https://neowutran.ovh/data/html/dps-$boss.html\">$bossname</a>" >> $indexfile
       filename="dps-$boss.html"
       header=$(cat ./header.html)
       header=${header/include_title/"$dungeonname - $bossname"}

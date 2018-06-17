@@ -7,5 +7,5 @@ for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
    if [[ -z "$name" ]]; then
       name=$(grep $pattern_grep ./TeraDpsMeterData/monsters/monsters-KR.xml | sed $pattern_sed)
    fi
-   echo "<a class=\"dropdown-item\" href=\"https://neowutran.ovh/dps-$dungeon.html\">$name</a>"
+   echo "<a class=\"dropdown-item\" href=\"https://neowutran.ovh/data/html/dps-$dungeon.html\">$name</a>"
 done
