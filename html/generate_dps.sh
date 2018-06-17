@@ -45,16 +45,21 @@ for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
    pattern_grep="Zone id=\"$dungeon\""
    pattern_sed="s/.*name=\"\(.*\)\".*/\1/"
    dungeonname=$(grep $pattern_grep ./TeraDpsMeterData/monsters/monsters-EU-EN.xml | sed $pattern_sed)
-   if [[ -z "$name" ]]; then
+   if [[ -z "$dungeonname" ]]; then
       dungeonname=$(grep $pattern_grep ./TeraDpsMeterData/monsters/monsters-KR.xml | sed $pattern_sed)
    fi
-   echo $(cat ./header.html) > $indexfile
+   header=$(cat ./header.html)
+   header=${header/include_title/"$dungeonname"}
+   echo "$header" > $indexfile
    echo "<h1>$dungeonname</h1>" >> $indexfile
    for boss in $(ls ../dps/ | grep $dungeon-) ; do
       bossid=$(echo "$boss" | cut -d '-' -f 2)
       bossname=$(get_boss_name $dungeon $bossid)
+      echo "<a role=\"button\" class=\"btn btn-primary btn-lg btn-block\" href=\"https://neowutran.ovh/dps-$boss.html\">$bossname</a>" >> $indexfile
       filename="dps-$boss.html"
-      echo $(cat ./header.html) > $filename
+      header=$(cat ./header.html)
+      header=${header/include_title/"$dungeonname - $bossname"}
+      echo "$header" > $filename
       echo "<h1>$dungeonname - $bossname</h1>" >> $filename
       for class in $(ls ../dps/$boss/) ; do
          echo "<h2>$class</h2>" >> $filename
