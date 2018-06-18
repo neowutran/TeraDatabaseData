@@ -2,7 +2,7 @@
 source ./functions.sh
 IFS=$'\n'
 rootfile="dps.html"
-header=$(cat ./header.html)
+header=$(cat ./_header)
 header=${header/include_title/DPS Statistics}
 echo "$header" > $rootfile
 
@@ -11,7 +11,7 @@ for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
    indexfile="dps-$dungeon.html"
    dungeonname=$(get_dungeon_name $dungeon )
    echo "<a role=\"button\" class=\"btn btn-primary btn-lg btn-block\" href=\"https://neowutran.ovh/data/html/dps-$dungeon.html\">$dungeonname</a>" >> $rootfile
-   header=$(cat ./header.html)
+   header=$(cat ./_header)
    header=${header/include_title/"$dungeonname"}
    echo "$header" > $indexfile
    echo "<h1>$dungeonname</h1>" >> $indexfile
@@ -22,7 +22,7 @@ for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
       bossname=$(get_boss_name $dungeon $bossid)
       echo "<a role=\"button\" class=\"btn btn-primary btn-lg btn-block\" href=\"https://neowutran.ovh/data/html/dps-$boss.html\">$bossname</a>" >> $indexfile
       filename="dps-$boss.html"
-      header=$(cat ./header.html)
+      header=$(cat ./_header)
       header=${header/include_title/"$dungeonname - $bossname"}
       echo "$header" > $filename
       echo "<h1>$dungeonname - $bossname</h1>" >> $filename
