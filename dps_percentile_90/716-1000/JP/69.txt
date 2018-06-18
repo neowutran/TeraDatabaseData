@@ -1,0 +1,5 @@
+Priest:18584
+Brawler:550029
+Ninja:739546
+Valkyrie:764553
+Gunner:685709

@@ -1,0 +1,5 @@
+Berserker:1738957
+Mystic:129292
+Archer:1267637
+Brawler:1395510
+Sorcerer:808708

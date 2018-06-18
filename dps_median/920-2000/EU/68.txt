@@ -1,5 +1,5 @@
-Warrior:3668315
 Archer:2627408
 Mystic:153477
 Brawler:1846351
+Warrior:3668315
 Reaper:1400666

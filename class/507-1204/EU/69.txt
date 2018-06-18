@@ -1,2 +1,2 @@
-Lancer:3
 Slayer:6
+Lancer:3

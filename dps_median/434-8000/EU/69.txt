@@ -1,0 +1,3 @@
+Priest:0
+Lancer:691160
+Warrior:1117317950

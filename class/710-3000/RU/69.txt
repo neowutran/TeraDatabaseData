@@ -1,0 +1,10 @@
+Lancer:18
+Archer:6
+Ninja:6
+Reaper:12
+Sorcerer:3
+Mystic:6
+Priest:15
+Warrior:24
+Brawler:3
+Berserker:12

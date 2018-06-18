@@ -1,8 +1,8 @@
+Lancer:6
+Warrior:6
 Priest:12
+Gunner:6
 Reaper:6
 Berserker:12
-Gunner:6
 Archer:6
-Warrior:6
-Lancer:6
 Ninja:6

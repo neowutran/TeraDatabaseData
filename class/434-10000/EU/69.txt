@@ -1,0 +1,3 @@
+Warrior:12
+Lancer:6
+Priest:6

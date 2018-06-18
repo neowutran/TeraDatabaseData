@@ -1,10 +1,10 @@
 Priest:138
 Mystic:81
-Archer:3
-Ninja:36
-Sorcerer:63
 Berserker:114
-Brawler:60
 Lancer:81
-Warrior:96
 Valkyrie:33
+Warrior:96
+Ninja:36
+Brawler:60
+Sorcerer:63
+Archer:3
