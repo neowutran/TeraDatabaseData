@@ -10,7 +10,7 @@ for directory in $(find ./dps/ -type d 2> /dev/null) ; do
       fi
 
       total_sum=$(cat $file | cut -d ":" -f 2 | paste -sd+ - | bc)
-      plotfiles="$plotfiles '$file' using (\$1*1e-3):(\$2*100/$total_sum) with linespoint"
+      plotfiles="$plotfiles '$file' using (\$1*1e-3):(\$2*100/$total_sum) with boxes"
    done
    if [[ ! -z "$plotfiles" ]]; then
       gnuplot <<- EOF
@@ -19,6 +19,7 @@ for directory in $(find ./dps/ -type d 2> /dev/null) ; do
          set grid
          set termoption enhanced
          set format y '%1.0f%%'
+         set style fill solid
          set xtics 500
          set terminal svg font "Bitstream Vera Sans, 12" size 1000,500 linewidth 1
          set output "|cat > $directory/plot.svg"
