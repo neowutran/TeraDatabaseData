@@ -1,10 +1,10 @@
-Priest:27
 Reaper:6
+Lancer:39
+Slayer:24
 Berserker:33
+Priest:27
 Sorcerer:6
 Archer:12
 Mystic:12
-Lancer:39
-Slayer:24
-Valkyrie:3
 Warrior:33
+Valkyrie:3

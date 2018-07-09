@@ -1,2 +1,3 @@
 Slayer:994067
+Berserker:309254
 Lancer:804134

@@ -1,0 +1,5 @@
+Mystic:12
+Priest:12
+Reaper:12
+Berserker:12
+Brawler:12

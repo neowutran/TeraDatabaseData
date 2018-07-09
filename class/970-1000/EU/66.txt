@@ -1,5 +1,5 @@
 Gunner:3
+Lancer:3
+Warrior:3
 Archer:3
 Mystic:3
-Warrior:3
-Lancer:3

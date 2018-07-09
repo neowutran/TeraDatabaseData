@@ -1,0 +1,5 @@
+Mystic:226875
+Priest:60624
+Reaper:2227378
+Berserker:1301483
+Brawler:1782758

@@ -1,5 +1,8 @@
 Berserker:1738957
+Lancer:535289
 Mystic:129292
-Archer:1267637
+Sorcerer:864172
+Priest:8771
+Ninja:736164
 Brawler:1395510
-Sorcerer:808708
+Archer:1267637

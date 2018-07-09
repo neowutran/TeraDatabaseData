@@ -1,2 +1,3 @@
 Slayer:6
-Lancer:3
+Berserker:3
+Lancer:6

@@ -1,9 +1,9 @@
-Priest:102
-Slayer:15
-Archer:138
-Warrior:96
+Warrior:108
 Brawler:93
-Mystic:111
+Mystic:123
+Slayer:15
+Lancer:57
+Sorcerer:78
+Priest:102
 Berserker:24
-Sorcerer:66
-Lancer:45
+Archer:150

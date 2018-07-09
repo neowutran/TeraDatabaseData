@@ -19,7 +19,7 @@ for directory in $(find ./dps/ -type d 2> /dev/null) ; do
          set grid
          set termoption enhanced
          set format y '%1.0f%%'
-         set style fill solid
+         set style fill transparent solid 0.5
          set xtics 500
          set terminal svg font "Bitstream Vera Sans, 12" size 1000,500 linewidth 1
          set output "|cat > $directory/plot.svg"
