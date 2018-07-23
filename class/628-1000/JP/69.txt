@@ -1,0 +1,4 @@
+Priest:6
+Berserker:1
+Gunner:1
+Lancer:1

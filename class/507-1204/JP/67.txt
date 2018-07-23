@@ -1,7 +1,7 @@
-Slayer:260
 Brawler:417
-Berserker:305
 Lancer:492
-Warrior:435
+Slayer:260
 Mystic:483
+Warrior:435
+Berserker:305
 Priest:484

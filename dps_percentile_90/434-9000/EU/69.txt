@@ -1,3 +1,3 @@
-Warrior:19445512
 Priest:29680
 Lancer:1137804
+Warrior:19445512

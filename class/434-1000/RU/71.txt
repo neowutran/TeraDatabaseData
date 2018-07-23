@@ -1,0 +1,4 @@
+Priest:1
+Warrior:1
+Slayer:2
+Lancer:1

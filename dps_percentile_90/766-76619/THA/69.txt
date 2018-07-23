@@ -1,0 +1,5 @@
+Brawler:1140524
+Gunner:846498
+Valkyrie:273711
+Mystic:328485
+Warrior:2721549

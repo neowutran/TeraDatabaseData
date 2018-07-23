@@ -1,5 +1,5 @@
+Mystic:6
+Slayer:3
 Berserker:12
 Lancer:9
-Slayer:3
 Brawler:3
-Mystic:6

@@ -1,4 +1,4 @@
-Mystic:12
-Berserker:9
 Priest:6
+Berserker:9
 Warrior:3
+Mystic:12

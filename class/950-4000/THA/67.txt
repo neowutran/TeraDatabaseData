@@ -1,9 +1,9 @@
-Priest:48
-Archer:48
-Valkyrie:72
-Ninja:24
-Mystic:48
-Sorcerer:72
-Lancer:72
 Berserker:48
 Warrior:48
+Ninja:24
+Priest:48
+Lancer:72
+Archer:48
+Valkyrie:72
+Mystic:48
+Sorcerer:72

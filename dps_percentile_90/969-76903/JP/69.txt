@@ -1,5 +1,5 @@
+Archer:3087537
 Priest:55103
 Sorcerer:2679830
-Archer:3087537
 Lancer:511816
 Ninja:2034961

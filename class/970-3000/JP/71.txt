@@ -1,0 +1,9 @@
+Sorcerer:19
+Berserker:8
+Archer:29
+Priest:18
+Slayer:26
+Ninja:5
+Warrior:15
+Mystic:16
+Lancer:34
