@@ -5,23 +5,26 @@ rootfile="dps.html"
 header=$(cat ./_header)
 header=${header/include_title/DPS Statistics}
 echo "$header" > $rootfile
-echo "<ul>" >> $rootfile
+
+echo "<div class=\"pa3 pa5-ns\">" >> $rootfile
+echo "<ul class=\"list pl0 measure center\">" >> $rootfile
 
 for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
 
    indexfile="dps-$dungeon.html"
    dungeonname=$(get_dungeon_name $dungeon )
-   echo "<li><a href=\"/data/html/dps-$dungeon.html\">$dungeonname</a></li>" >> $rootfile
+   echo "<li class=\"lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30\"><a href=\"/data/html/dps-$dungeon.html\">$dungeonname</a></li>" >> $rootfile
+
    header=$(cat ./_header)
    header=${header/include_title/"$dungeonname"}
    echo "$header" > $indexfile
-   echo "<h1>$dungeonname</h1><ul>" >> $indexfile
+   echo "<h1>$dungeonname</h1><div class=\"pa3 pa5-ns\"><ul class=\"list pl0 measure center\">" >> $indexfile
 
    for boss in $(ls ../dps/ | grep $dungeon-) ; do
 
       bossid=$(echo "$boss" | cut -d '-' -f 2)
       bossname=$(get_boss_name $dungeon $bossid)
-      echo "<li><a href=\"/data/html/dps-$boss.html\">$bossname</a></li>" >> $indexfile
+      echo "<li class=\"lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30\"><a href=\"/data/html/dps-$boss.html\">$bossname</a></li>" >> $indexfile
       filename="dps-$boss.html"
       header=$(cat ./_header)
       header=${header/include_title/"$dungeonname - $bossname"}
@@ -39,10 +42,10 @@ for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
       echo $(cat ./_footer) >> $filename
    done
 
-   echo "</ul>" >> $indexfile
+   echo "</ul></div>" >> $indexfile
    echo $(cat ./_footer) >> $indexfile
 
 done
 
-echo "</ul>" >> $rootfile
+echo "</ul></div>" >> $rootfile
 echo $(cat ./_footer) >> $rootfile
