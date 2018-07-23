@@ -1,0 +1,5 @@
+Warrior:2
+Brawler:2
+Mystic:2
+Priest:2
+Valkyrie:2

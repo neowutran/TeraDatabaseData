@@ -1,3 +1,6 @@
+Mystic:796905
 Slayer:994067
-Berserker:309254
 Lancer:804134
+Priest:584094
+Warrior:1477714
+Berserker:992440

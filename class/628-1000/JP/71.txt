@@ -1,0 +1,11 @@
+Priest:2
+Reaper:2
+Archer:2
+Sorcerer:1
+Lancer:1
+Slayer:2
+Gunner:5
+Warrior:1
+Berserker:5
+Mystic:1
+Valkyrie:1

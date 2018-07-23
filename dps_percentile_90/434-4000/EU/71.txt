@@ -1,0 +1,5 @@
+Priest:40101
+Slayer:4098713
+Sorcerer:2473346
+Gunner:3027808
+Lancer:1579919

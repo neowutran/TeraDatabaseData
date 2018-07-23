@@ -1,0 +1,10 @@
+Warrior:2
+Mystic:1
+Gunner:9
+Lancer:4
+Priest:2
+Berserker:1
+Archer:3
+Ninja:5
+Brawler:3
+Sorcerer:5

@@ -1,6 +1,6 @@
-Berserker:98530028
-Mystic:156524
-Warrior:3043587
 Reaper:1417519
-Archer:1944281
+Berserker:98530028
 Brawler:2085087
+Mystic:156524
+Archer:1944281
+Warrior:3043587

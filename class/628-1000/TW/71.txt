@@ -1,0 +1,2 @@
+Gunner:2
+Sorcerer:1
