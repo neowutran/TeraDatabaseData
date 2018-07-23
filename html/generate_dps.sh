@@ -5,22 +5,23 @@ rootfile="dps.html"
 header=$(cat ./_header)
 header=${header/include_title/DPS Statistics}
 echo "$header" > $rootfile
+echo "<ul>" >> $rootfile
 
 for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
 
    indexfile="dps-$dungeon.html"
    dungeonname=$(get_dungeon_name $dungeon )
-   echo "<a href=\"https://neowutran.ovh/data/html/dps-$dungeon.html\">$dungeonname</a>" >> $rootfile
+   echo "<li><a href=\"/data/html/dps-$dungeon.html\">$dungeonname</a></li>" >> $rootfile
    header=$(cat ./_header)
    header=${header/include_title/"$dungeonname"}
    echo "$header" > $indexfile
-   echo "<h1>$dungeonname</h1>" >> $indexfile
+   echo "<h1>$dungeonname</h1><ul>" >> $indexfile
 
    for boss in $(ls ../dps/ | grep $dungeon-) ; do
 
       bossid=$(echo "$boss" | cut -d '-' -f 2)
       bossname=$(get_boss_name $dungeon $bossid)
-      echo "<a href=\"/data/html/dps-$boss.html\">$bossname</a>" >> $indexfile
+      echo "<li><a href=\"/data/html/dps-$boss.html\">$bossname</a></li>" >> $indexfile
       filename="dps-$boss.html"
       header=$(cat ./_header)
       header=${header/include_title/"$dungeonname - $bossname"}
@@ -32,9 +33,16 @@ for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
          echo "<h2>$class</h2>" >> $filename
          for region in $(ls ../dps/$boss/$class/) ; do
             echo "<h3>$region</h3>" >> $filename
-            echo "<img style='height: 100%; width: 100%; object-fit: contain' src=\"/data/dps/$boss/$class/$region/plot.svg\" />" >> $filename
+            echo "<img class='graph' src=\"/data/dps/$boss/$class/$region/plot.svg\" alt="$boss-$class-$region" />" >> $filename
          done
       done
       echo $(cat ./_footer) >> $filename
    done
+
+   echo "</ul>" >> $indexfile
+   echo $(cat ./_footer) >> $indexfile
+
 done
+
+echo "</ul>" >> $rootfile
+echo $(cat ./_footer) >> $rootfile
