@@ -7,7 +7,7 @@ header=${header/include_title/DPS Statistics}
 echo "$header" > $rootfile
 
 echo "<div class=\"pa3 pa5-ns\">" >> $rootfile
-echo "<ul class=\"list pl0 measure center\">" >> $rootfile
+echo "<ul class=\"list pl0 measure\">" >> $rootfile
 
 for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
 
@@ -18,7 +18,7 @@ for dungeon in $(ls ../dps/ | cut -d "-" -f 1 | uniq) ; do
    header=$(cat ./_header)
    header=${header/include_title/"$dungeonname"}
    echo "$header" > $indexfile
-   echo "<h1>$dungeonname</h1><div class=\"pa3 pa5-ns\"><ul class=\"list pl0 measure center\">" >> $indexfile
+   echo "<h1>$dungeonname</h1><div class=\"pa3 pa5-ns\"><ul class=\"list pl0 measure\">" >> $indexfile
 
    for boss in $(ls ../dps/ | grep $dungeon-) ; do
 

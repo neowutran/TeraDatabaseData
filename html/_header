@@ -12,7 +12,7 @@
   <nav class="f6 fw6 ttu tracked">
     <a class="link dim white dib mr3" href="/" title="Home">Home</a>
     <a class="link dim white dib mr3" href="/updates/" title="Download ShinraMeter">Download ShinraMeter</a>
-    <a class="link dim white dib mr3" href="/files-storage/Others/Tera-chat-exploit.pdf" title="Tera chat exploit">Tera chat exploit</a>
+    <a class="link dim white dib mr3" href="/others/Tera-chat-exploit.pdf" title="Tera chat exploit">Tera chat exploit</a>
     <a class="link dim white dib" href="/data/html/dps.html" title="DPS Statistics">Dps Statistics</a>
   </nav>
 </header>
