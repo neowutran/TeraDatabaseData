@@ -1,10 +1,10 @@
-Lancer:659480
-Mystic:0
-Berserker:1412400
 Valkyrie:11017
-Warrior:2893297
-Ninja:810708
-Gunner:1121728
-Archer:1922335
+Berserker:1412400
+Mystic:0
 Sorcerer:2903473
 Brawler:414637
+Warrior:2893297
+Lancer:659480
+Gunner:1121728
+Ninja:810708
+Archer:1922335

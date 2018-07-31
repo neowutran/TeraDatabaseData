@@ -1,0 +1,5 @@
+Warrior:18
+Brawler:18
+Slayer:18
+Priest:18
+Berserker:18

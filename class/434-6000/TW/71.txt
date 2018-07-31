@@ -1,0 +1,5 @@
+Brawler:15
+Warrior:15
+Slayer:15
+Berserker:15
+Priest:15

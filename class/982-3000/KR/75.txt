@@ -1,0 +1,13 @@
+Priest:2019
+Reaper:425
+Warrior:1466
+Slayer:1207
+Mystic:1148
+Sorcerer:1332
+Ninja:1702
+Berserker:985
+Brawler:904
+Archer:1566
+Lancer:2222
+Valkyrie:220
+Gunner:493

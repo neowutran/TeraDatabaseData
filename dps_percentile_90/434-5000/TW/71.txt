@@ -1,0 +1,5 @@
+Warrior:3348512
+Brawler:3458312
+Slayer:2738891
+Priest:71185
+Berserker:3234138

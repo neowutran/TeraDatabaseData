@@ -1,0 +1,7 @@
+Lancer:2579126
+Warrior:4651775
+Slayer:4459837
+Archer:4739246
+Priest:372126
+Reaper:4786155
+Gunner:4973973

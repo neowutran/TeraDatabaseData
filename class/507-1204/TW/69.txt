@@ -1,2 +1,2 @@
-Warrior:3
 Slayer:1
+Warrior:3

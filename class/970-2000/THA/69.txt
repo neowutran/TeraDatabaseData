@@ -1,11 +1,11 @@
-Gunner:4
-Sorcerer:10
-Reaper:2
 Lancer:8
 Mystic:10
-Priest:2
 Brawler:4
+Priest:2
+Reaper:2
 Archer:3
 Warrior:13
-Valkyrie:3
 Berserker:1
+Valkyrie:3
+Gunner:4
+Sorcerer:10

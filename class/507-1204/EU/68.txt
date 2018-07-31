@@ -1,5 +1,5 @@
+Lancer:9
 Mystic:6
+Brawler:3
 Slayer:3
 Berserker:12
-Lancer:9
-Brawler:3

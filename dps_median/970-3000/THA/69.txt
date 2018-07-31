@@ -1,5 +1,5 @@
-Warrior:2567526
-Brawler:2326185
 Mystic:2215
-Priest:76743
 Valkyrie:1865885
+Priest:76743
+Brawler:2326185
+Warrior:2567526

@@ -1,0 +1,6 @@
+Lancer:3050360
+Sorcerer:5990843
+Archer:2827446
+Warrior:5820142
+Berserker:6481527
+Priest:75404

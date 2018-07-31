@@ -1,0 +1,7 @@
+Lancer:4
+Warrior:4
+Slayer:2
+Archer:3
+Priest:4
+Reaper:1
+Gunner:2

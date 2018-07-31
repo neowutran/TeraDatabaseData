@@ -1,8 +1,8 @@
-Ninja:0
-Lancer:519071
 Warrior:722657
+Lancer:519071
+Priest:362151
+Ninja:0
+Berserker:386191
 Brawler:986313
 Slayer:598139
-Berserker:386191
-Priest:362151
 Mystic:689881

@@ -1,6 +1,6 @@
 Mystic:1
-Slayer:6
 Lancer:7
+Slayer:6
 Priest:3
 Warrior:3
 Berserker:8

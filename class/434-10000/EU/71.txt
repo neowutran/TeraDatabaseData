@@ -1,0 +1,4 @@
+Slayer:5
+Lancer:5
+Berserker:10
+Priest:5

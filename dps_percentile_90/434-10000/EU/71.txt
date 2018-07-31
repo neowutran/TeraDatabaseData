@@ -1,0 +1,4 @@
+Slayer:4089834
+Lancer:2116495
+Berserker:5505545
+Priest:101802
