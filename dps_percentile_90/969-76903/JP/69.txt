@@ -1,5 +1,5 @@
+Lancer:511816
 Priest:55103
+Ninja:2034961
 Sorcerer:2679830
 Archer:3087537
-Ninja:2034961
-Lancer:511816

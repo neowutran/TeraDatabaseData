@@ -1,10 +1,10 @@
-Valkyrie:2336815
-Slayer:215192
-Lancer:1363700
 Archer:1758030
-Warrior:944830
-Ninja:283765
+Valkyrie:2336815
 Brawler:1405573
-Sorcerer:309460
 Gunner:2330316
+Slayer:215192
 Priest:123686
+Sorcerer:309460
+Ninja:283765
+Warrior:944830
+Lancer:1363700

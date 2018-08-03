@@ -1,2 +1,2 @@
-Sorcerer:1
 Gunner:2
+Sorcerer:1

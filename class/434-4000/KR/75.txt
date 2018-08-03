@@ -1,9 +1,9 @@
-Sorcerer:14
-Gunner:4
-Lancer:22
+Gunner:5
 Reaper:3
-Ninja:14
-Warrior:22
-Archer:5
-Slayer:4
-Priest:22
+Archer:6
+Ninja:20
+Priest:29
+Lancer:29
+Warrior:28
+Sorcerer:20
+Slayer:5

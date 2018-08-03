@@ -1,4 +1,4 @@
-Lancer:4
-Brawler:1
 Sorcerer:1
+Lancer:4
 Gunner:3
+Brawler:1

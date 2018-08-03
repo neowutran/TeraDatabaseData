@@ -1,8 +1,8 @@
-Brawler:637339
-Warrior:2971788
-Priest:0
-Ninja:5156799
 Berserker:4581079
+Ninja:5156799
+Warrior:2971788
+Brawler:637339
+Priest:0
 Sorcerer:15460587
 Gunner:3588949
 Archer:2921461

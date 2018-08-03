@@ -1,10 +1,10 @@
-Reaper:1442250
+Slayer:1523724
+Warrior:1302417
+Priest:39664
+Mystic:265897
+Valkyrie:1375895
 Archer:2005179
 Sorcerer:1990758
-Priest:39664
-Valkyrie:1375895
-Lancer:866767
-Warrior:1302417
-Mystic:265897
+Reaper:1442250
 Brawler:917704
-Slayer:1523724
+Lancer:866767

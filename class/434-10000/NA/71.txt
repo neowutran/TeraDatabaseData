@@ -1,0 +1,4 @@
+Lancer:1
+Priest:1
+Berserker:2
+Brawler:1

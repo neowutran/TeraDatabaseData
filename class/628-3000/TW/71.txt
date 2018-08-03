@@ -1,9 +1,9 @@
 Valkyrie:3
-Gunner:1
-Archer:1
 Reaper:2
-Brawler:1
-Lancer:1
 Mystic:1
 Berserker:3
+Archer:1
+Gunner:1
+Brawler:1
 Warrior:2
+Lancer:1

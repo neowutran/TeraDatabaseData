@@ -1,3 +1,3 @@
-Lancer:3
 Gunner:1
+Lancer:3
 Brawler:1

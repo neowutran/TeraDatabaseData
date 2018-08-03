@@ -1,8 +1,8 @@
+Sorcerer:4
+Reaper:1
 Valkyrie:2
 Berserker:2
 Gunner:6
-Sorcerer:4
-Ninja:5
-Archer:1
 Lancer:1
-Reaper:1
+Archer:1
+Ninja:5

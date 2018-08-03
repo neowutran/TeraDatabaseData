@@ -1,10 +1,10 @@
-Priest:313361
-Berserker:455784
-Gunner:0
-Slayer:639774
-Reaper:0
+Archer:0
+Brawler:1088894
 Lancer:582578
 Mystic:693350
-Brawler:1088894
-Archer:0
+Berserker:455784
+Reaper:0
+Gunner:0
+Slayer:639774
 Warrior:946963
+Priest:313361

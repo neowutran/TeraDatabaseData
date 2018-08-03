@@ -1,4 +1,4 @@
-Sorcerer:2
-Lancer:1
 Mystic:1
 Valkyrie:1
+Lancer:1
+Sorcerer:2

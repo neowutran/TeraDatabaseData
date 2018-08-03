@@ -1,7 +1,7 @@
-Slayer:2944285
-Priest:251854
-Warrior:4347623
-Lancer:1959618
-Gunner:4256845
 Reaper:3477278
 Archer:3612122
+Lancer:1959618
+Warrior:4347623
+Gunner:4256845
+Priest:251854
+Slayer:2944285

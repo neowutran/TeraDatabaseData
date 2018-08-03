@@ -1,9 +1,9 @@
-Sorcerer:5734451
 Gunner:6256406
-Lancer:2809665
 Reaper:5907327
+Archer:5980745
 Ninja:6840585
+Priest:398802
+Lancer:2613549
 Warrior:5313818
-Archer:5848952
+Sorcerer:5734451
 Slayer:4905623
-Priest:389736

@@ -1,4 +1,8 @@
-Slayer:5
-Lancer:5
-Berserker:10
-Priest:5
+Sorcerer:4
+Berserker:32
+Mystic:8
+Gunner:5
+Lancer:26
+Priest:18
+Warrior:28
+Slayer:9
