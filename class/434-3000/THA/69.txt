@@ -1,0 +1,4 @@
+Berserker:8
+Brawler:4
+Priest:4
+Warrior:4

@@ -1,9 +1,9 @@
+Ninja:939068
+Gunner:546962
+Mystic:0
+Priest:0
+Brawler:797898
+Warrior:905204
 Berserker:1708928
 Archer:1648718
-Ninja:939068
-Priest:0
-Warrior:905204
 Sorcerer:5741558
-Gunner:546962
-Brawler:797898
-Mystic:0

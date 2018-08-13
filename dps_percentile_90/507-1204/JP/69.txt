@@ -1,4 +1,4 @@
 Brawler:468446
-Slayer:1583673
 Warrior:717867
 Mystic:913462
+Slayer:1583673

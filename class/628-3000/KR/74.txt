@@ -1,9 +1,9 @@
+Ninja:5
+Gunner:6
+Mystic:1
+Priest:2
+Brawler:2
+Warrior:2
 Berserker:1
 Archer:3
-Ninja:5
-Priest:2
-Warrior:2
 Sorcerer:4
-Gunner:6
-Brawler:2
-Mystic:1

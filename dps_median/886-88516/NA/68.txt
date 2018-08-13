@@ -1,8 +1,8 @@
-Reaper:586400
-Berserker:1299075
-Lancer:1629727
-Ninja:0
-Priest:103955
-Gunner:0
 Warrior:1113733
+Reaper:586400
+Ninja:0
+Gunner:0
+Lancer:1629727
+Berserker:1299075
+Priest:103955
 Archer:0

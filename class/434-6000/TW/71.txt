@@ -1,8 +1,8 @@
-Mystic:3
-Sorcerer:3
-Brawler:21
-Slayer:24
-Priest:21
-Lancer:3
-Warrior:24
-Berserker:21
+Brawler:46
+Berserker:51
+Mystic:5
+Slayer:48
+Priest:49
+Lancer:8
+Sorcerer:6
+Warrior:57

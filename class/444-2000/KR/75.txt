@@ -1,0 +1,7 @@
+Warrior:2
+Archer:17
+Priest:5
+Mystic:17
+Ninja:40
+Sorcerer:7
+Lancer:22
