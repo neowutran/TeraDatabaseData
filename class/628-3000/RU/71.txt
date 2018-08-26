@@ -1,10 +1,10 @@
-Ninja:7
-Valkyrie:3
-Archer:4
-Berserker:4
 Sorcerer:4
-Brawler:2
 Mystic:1
-Lancer:1
+Brawler:2
 Warrior:1
+Valkyrie:3
+Ninja:7
+Berserker:4
+Lancer:1
 Gunner:8
+Archer:4

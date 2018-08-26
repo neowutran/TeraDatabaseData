@@ -1,0 +1,13 @@
+Valkyrie:5
+Berserker:19
+Slayer:16
+Archer:28
+Ninja:47
+Brawler:19
+Warrior:56
+Sorcerer:17
+Priest:58
+Mystic:13
+Gunner:15
+Lancer:52
+Reaper:10

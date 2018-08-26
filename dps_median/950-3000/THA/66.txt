@@ -1,11 +1,11 @@
-Sorcerer:361119
-Mystic:19100
 Archer:605604
-Slayer:294034
+Gunner:411377
 Brawler:303884
+Mystic:19100
+Sorcerer:361119
+Valkyrie:267524
 Priest:3537
 Lancer:79696
-Gunner:411377
-Valkyrie:267524
 Reaper:407686
+Slayer:294034
 Warrior:415601

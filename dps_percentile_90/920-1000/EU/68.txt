@@ -1,5 +1,5 @@
-Reaper:1265196
-Warrior:3088443
-Mystic:147693
-Brawler:1790046
 Archer:1882683
+Warrior:3088443
+Brawler:1790046
+Reaper:1265196
+Mystic:147693

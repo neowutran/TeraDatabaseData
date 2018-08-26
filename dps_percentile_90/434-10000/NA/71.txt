@@ -1,7 +1,7 @@
-Slayer:4213668
-Lancer:1746709
-Berserker:4491578
-Sorcerer:2721355
-Warrior:4582115
-Priest:133656
+Slayer:4639959
+Berserker:5614472
+Warrior:4989731
 Brawler:3146342
+Sorcerer:3180085
+Lancer:2016463
+Priest:167192

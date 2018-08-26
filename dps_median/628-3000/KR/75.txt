@@ -1,4 +1,4 @@
-Brawler:949466
 Gunner:3147021
-Sorcerer:2929849
 Lancer:599789
+Brawler:949466
+Sorcerer:2929849

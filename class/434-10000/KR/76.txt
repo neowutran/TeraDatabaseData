@@ -1,0 +1,4 @@
+Warrior:8
+Lancer:8
+Priest:8
+Ninja:16

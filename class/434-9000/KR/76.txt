@@ -1,0 +1,7 @@
+Ninja:27
+Lancer:12
+Berserker:6
+Warrior:8
+Priest:15
+Slayer:4
+Brawler:3

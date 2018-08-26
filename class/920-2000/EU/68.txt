@@ -1,5 +1,5 @@
 Warrior:3
 Brawler:3
-Archer:3
 Mystic:3
+Archer:3
 Reaper:3

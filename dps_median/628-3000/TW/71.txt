@@ -1,9 +1,9 @@
-Berserker:2269849
-Warrior:1279276
+Archer:2081290
+Mystic:27551
 Brawler:952242
+Gunner:719383
+Warrior:1279276
+Valkyrie:935852
 Reaper:1995075
 Lancer:381700
-Valkyrie:935852
-Gunner:719383
-Mystic:27551
-Archer:2081290
+Berserker:2269849

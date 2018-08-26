@@ -1,9 +1,9 @@
-Warrior:13
 Lancer:3
-Brawler:12
-Mystic:4
-Berserker:22
-Valkyrie:7
-Priest:11
 Archer:1
-Sorcerer:2
+Warrior:17
+Priest:11
+Sorcerer:4
+Brawler:28
+Mystic:20
+Valkyrie:31
+Berserker:40

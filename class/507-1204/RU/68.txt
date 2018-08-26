@@ -1,7 +1,7 @@
-Brawler:12
-Warrior:6
-Mystic:3
-Berserker:15
-Slayer:3
 Priest:3
+Warrior:6
+Brawler:12
+Berserker:15
+Mystic:3
+Slayer:3
 Lancer:3
