@@ -1,9 +1,9 @@
 Brawler:79
+Lancer:3
+Mystic:63
 Priest:19
+Valkyrie:105
 Sorcerer:10
 Archer:11
-Mystic:63
-Berserker:90
-Valkyrie:105
 Warrior:30
-Lancer:3
+Berserker:90

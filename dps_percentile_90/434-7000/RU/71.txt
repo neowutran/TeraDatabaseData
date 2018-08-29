@@ -1,7 +1,7 @@
+Sorcerer:3935686
 Mystic:261260
-Priest:84153
 Warrior:4396383
 Lancer:2084708
-Sorcerer:3935686
 Berserker:4889472
+Priest:84153
 Archer:3717867

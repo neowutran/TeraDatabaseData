@@ -1,8 +1,8 @@
-Priest:73
 Sorcerer:21
-Warrior:104
-Mystic:18
 Brawler:63
 Slayer:57
+Priest:73
+Mystic:18
 Lancer:30
 Berserker:89
+Warrior:104

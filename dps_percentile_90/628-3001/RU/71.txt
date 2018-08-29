@@ -1,8 +1,8 @@
-Gunner:6151002
-Ninja:1959232
-Archer:2190301
-Sorcerer:984652
-Lancer:706376
 Reaper:264031
 Valkyrie:559650
+Ninja:1959232
 Berserker:1764802
+Gunner:6151002
+Lancer:706376
+Sorcerer:984652
+Archer:2190301

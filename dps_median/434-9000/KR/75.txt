@@ -1,5 +1,5 @@
-Warrior:3146330
 Reaper:3455881
-Lancer:1732202
 Priest:92781
 Archer:4615466
+Lancer:1732202
+Warrior:3146330

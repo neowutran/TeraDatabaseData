@@ -1,9 +1,9 @@
-Ninja:6214298
 Priest:467323
-Archer:5375198
-Reaper:6110874
 Lancer:2125211
-Warrior:4987345
 Sorcerer:5066486
 Slayer:4816012
 Gunner:6310565
+Ninja:6214298
+Archer:5375198
+Reaper:6110874
+Warrior:4987345

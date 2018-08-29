@@ -1,4 +1,4 @@
-Gunner:3147021
-Lancer:599789
 Brawler:949466
+Lancer:599789
 Sorcerer:2929849
+Gunner:3147021

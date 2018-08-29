@@ -1,7 +1,7 @@
-Lancer:2579126
-Priest:372126
-Slayer:4459837
 Reaper:4786155
-Archer:4739246
-Warrior:4651775
 Gunner:4973973
+Warrior:4651775
+Archer:4739246
+Slayer:4459837
+Priest:372126
+Lancer:2579126

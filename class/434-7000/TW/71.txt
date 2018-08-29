@@ -1,6 +1,6 @@
-Lancer:3
+Priest:15
+Sorcerer:12
 Berserker:3
 Brawler:12
-Priest:15
 Warrior:30
-Sorcerer:12
+Lancer:3

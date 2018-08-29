@@ -1,9 +1,9 @@
 Reaper:948217
-Priest:126003
-Lancer:671931
-Warrior:1599982
-Valkyrie:1184731
 Ninja:1176458
 Sorcerer:1019791
+Priest:126003
+Lancer:671931
 Mystic:363790
+Warrior:1599982
 Brawler:1653739
+Valkyrie:1184731

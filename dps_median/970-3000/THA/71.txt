@@ -1,8 +1,8 @@
-Archer:1300960
 Sorcerer:1794963
-Warrior:2616598
-Brawler:2501147
-Lancer:987912
-Mystic:246857
-Priest:71061
 Valkyrie:1994817
+Mystic:246857
+Archer:1300960
+Lancer:987912
+Brawler:2501147
+Priest:71061
+Warrior:2616598

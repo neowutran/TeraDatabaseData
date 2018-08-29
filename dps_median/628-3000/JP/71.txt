@@ -1,9 +1,9 @@
+Berserker:3997175
 Reaper:5111789
 Sorcerer:1716893
-Valkyrie:2808332
-Berserker:3997175
 Priest:49661
 Mystic:399453
-Slayer:3582431
+Valkyrie:2808332
 Gunner:3538432
 Warrior:4364848
+Slayer:3582431
