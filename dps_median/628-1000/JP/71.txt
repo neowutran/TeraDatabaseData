@@ -1,11 +1,11 @@
-Valkyrie:1112961
-Slayer:2956599
 Gunner:1788948
-Priest:216231
+Valkyrie:1112961
 Archer:1118936
-Mystic:0
 Warrior:4394376
-Sorcerer:1111715
+Priest:216231
+Slayer:2956599
 Reaper:5853874
-Lancer:997797
 Berserker:2602305
+Mystic:0
+Sorcerer:1111715
+Lancer:997797

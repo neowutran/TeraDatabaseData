@@ -1,9 +1,9 @@
-Gunner:4963458
-Sorcerer:3773819
-Priest:307152
-Warrior:4017666
-Lancer:1620618
-Archer:5805807
-Slayer:4189091
-Ninja:4368379
 Reaper:4589656
+Slayer:4189091
+Gunner:4963458
+Priest:307152
+Sorcerer:3773819
+Warrior:4017666
+Archer:5805807
+Lancer:1620618
+Ninja:4368379

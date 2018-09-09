@@ -1,7 +1,7 @@
-Sorcerer:8
+Archer:53
+Berserker:318
+Warrior:140
+Lancer:174
 Priest:5
-Mystic:44
-Archer:18
-Warrior:25
-Berserker:96
-Lancer:49
+Sorcerer:11
+Mystic:169

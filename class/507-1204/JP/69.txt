@@ -1,4 +1,4 @@
-Slayer:2
 Brawler:1
-Warrior:1
 Mystic:2
+Slayer:1
+Warrior:1

@@ -1,3 +1,2 @@
-Mystic:866186
 Priest:583501
-Berserker:1464569
+Mystic:866186

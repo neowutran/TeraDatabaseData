@@ -1,5 +1,5 @@
 Reaper:3455881
 Priest:92781
+Warrior:3146330
 Archer:4615466
 Lancer:1732202
-Warrior:3146330

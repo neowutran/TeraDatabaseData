@@ -1,6 +1,6 @@
-Warrior:3
-Berserker:3
-Archer:3
 Brawler:3
-Reaper:3
 Mystic:3
+Berserker:3
+Warrior:3
+Reaper:3
+Archer:3

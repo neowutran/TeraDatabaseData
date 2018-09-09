@@ -1,4 +1,4 @@
-Lancer:1
+Priest:6
 Berserker:1
 Gunner:1
-Priest:6
+Lancer:1

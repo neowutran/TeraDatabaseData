@@ -1,10 +1,10 @@
-Lancer:1
 Priest:1
+Warrior:2
+Sorcerer:1
+Lancer:1
+Slayer:1
+Ninja:1
 Brawler:1
 Archer:3
-Slayer:1
-Sorcerer:1
 Valkyrie:3
-Warrior:2
-Ninja:1
 Gunner:7

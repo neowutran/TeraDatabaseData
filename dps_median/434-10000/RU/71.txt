@@ -1,0 +1,4 @@
+Berserker:4306024
+Lancer:1475641
+Mystic:158955
+Warrior:3771463

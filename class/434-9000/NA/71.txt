@@ -1,7 +1,7 @@
-Priest:128
-Sorcerer:60
-Warrior:78
-Slayer:54
-Berserker:174
+Lancer:152
+Berserker:204
+Warrior:108
+Slayer:84
 Brawler:24
-Lancer:122
+Priest:158
+Sorcerer:60

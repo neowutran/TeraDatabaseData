@@ -1,0 +1,5 @@
+Warrior:13
+Berserker:78
+Archer:2
+Mystic:31
+Lancer:31

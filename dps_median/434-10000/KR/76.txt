@@ -1,4 +1,4 @@
 Warrior:4086621
+Lancer:1769079
 Ninja:5005376
 Priest:268196
-Lancer:1769079

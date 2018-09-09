@@ -1,11 +1,11 @@
-Sorcerer:2447112
-Berserker:3529424
-Lancer:1481200
-Archer:2877805
+Brawler:2352254
 Warrior:3403868
 Gunner:1366025
-Brawler:2352254
+Sorcerer:2447112
+Slayer:2387951
+Lancer:1481200
 Ninja:1049045
 Mystic:319568
 Priest:56118
-Slayer:2387951
+Archer:2877805
+Berserker:3529424

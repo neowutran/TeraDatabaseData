@@ -1,4 +1,4 @@
-Lancer:1471267
-Sorcerer:2852269
 Mystic:464814
 Valkyrie:1863653
+Sorcerer:2852269
+Lancer:1471267

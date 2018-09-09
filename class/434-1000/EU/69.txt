@@ -1,4 +1,4 @@
+Berserker:3
 Priest:6
 Warrior:12
 Lancer:6
-Berserker:3
