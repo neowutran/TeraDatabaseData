@@ -1,0 +1,9 @@
+Berserker:4876127
+Lancer:1079868
+Brawler:3996738
+Sorcerer:2880210
+Mystic:520563
+Archer:3128805
+Warrior:4439925
+Valkyrie:3424497
+Priest:200281

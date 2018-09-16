@@ -1,4 +1,4 @@
-Warrior:3393065
 Priest:126207
-Berserker:3320733
 Brawler:1781226
+Warrior:3393065
+Berserker:3320733

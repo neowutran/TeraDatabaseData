@@ -1,9 +1,9 @@
-Valkyrie:4468653
-Berserker:5505693
-Warrior:6602981
 Priest:0
+Ninja:0
+Valkyrie:4468653
 Reaper:5090450
-Sorcerer:2073319
 Gunner:3606953
 Slayer:4145236
-Ninja:0
+Sorcerer:2073319
+Warrior:6602981
+Berserker:5505693

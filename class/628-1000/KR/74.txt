@@ -1,6 +1,6 @@
-Gunner:4
-Ninja:12
-Brawler:1
-Priest:5
 Sorcerer:2
+Gunner:4
+Brawler:1
+Ninja:12
 Mystic:3
+Priest:5

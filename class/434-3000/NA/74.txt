@@ -1,0 +1,10 @@
+Warrior:51
+Archer:34
+Lancer:61
+Brawler:14
+Priest:67
+Sorcerer:4
+Berserker:72
+Gunner:10
+Slayer:8
+Ninja:14

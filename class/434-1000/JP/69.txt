@@ -1,4 +1,4 @@
-Mystic:1
-Valkyrie:1
-Sorcerer:2
 Lancer:1
+Valkyrie:1
+Mystic:1
+Sorcerer:2

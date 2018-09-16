@@ -1,0 +1,4 @@
+Lancer:775483
+Warrior:2762091
+Ninja:900016
+Mystic:420954

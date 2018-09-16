@@ -1,10 +1,10 @@
+Ninja:935030
+Mystic:42989
 Lancer:449261
-Sorcerer:1371390
+Reaper:1771514
+Gunner:1116157
+Brawler:1272792
 Priest:4319
 Valkyrie:1155048
 Warrior:1047108
-Mystic:42989
-Reaper:1771514
-Ninja:935030
-Gunner:1116157
-Brawler:1272792
+Sorcerer:1371390

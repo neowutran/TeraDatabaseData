@@ -1,6 +1,6 @@
-Gunner:3161127
-Ninja:0
-Brawler:0
-Priest:0
 Sorcerer:5136659
+Gunner:3161127
+Brawler:0
+Ninja:0
 Mystic:0
+Priest:0

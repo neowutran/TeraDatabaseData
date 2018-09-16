@@ -1,4 +1,6 @@
-Warrior:8
-Lancer:8
+Priest:10
+Sorcerer:4
+Lancer:10
 Ninja:16
-Priest:8
+Slayer:2
+Warrior:8

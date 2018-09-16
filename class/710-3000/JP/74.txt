@@ -1,0 +1,4 @@
+Lancer:2
+Warrior:4
+Ninja:2
+Mystic:2

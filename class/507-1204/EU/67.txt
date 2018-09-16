@@ -1,8 +1,8 @@
-Berserker:576
 Priest:666
-Mystic:817
-Lancer:675
-Slayer:418
-Ninja:3
-Warrior:612
 Brawler:1032
+Mystic:817
+Ninja:3
+Lancer:675
+Warrior:612
+Slayer:418
+Berserker:576

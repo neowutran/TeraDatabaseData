@@ -1,0 +1,7 @@
+Slayer:2543237
+Brawler:1169152
+Berserker:5504091
+Warrior:4595420
+Valkyrie:3168547
+Sorcerer:1859532
+Priest:237855

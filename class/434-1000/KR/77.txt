@@ -1,0 +1,7 @@
+Archer:4
+Mystic:4
+Warrior:4
+Priest:4
+Lancer:8
+Sorcerer:4
+Berserker:12

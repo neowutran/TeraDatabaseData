@@ -1,4 +1,5 @@
-Berserker:44
-Lancer:16
-Mystic:16
-Warrior:4
+Archer:6
+Lancer:30
+Berserker:70
+Mystic:30
+Warrior:14

@@ -1,0 +1,7 @@
+Lancer:23
+Priest:23
+Brawler:4
+Berserker:22
+Slayer:4
+Warrior:27
+Archer:12

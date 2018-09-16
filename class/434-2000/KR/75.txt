@@ -1,11 +1,11 @@
+Brawler:3
+Sorcerer:19
 Priest:27
 Slayer:7
-Lancer:26
-Reaper:4
-Brawler:3
-Warrior:27
-Sorcerer:19
-Archer:9
 Ninja:16
+Archer:9
 Gunner:5
 Mystic:2
+Reaper:4
+Lancer:26
+Warrior:27

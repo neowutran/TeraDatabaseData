@@ -1,6 +1,6 @@
 Priest:0
+Ninja:2809260
 Sorcerer:5741558
 Gunner:0
-Archer:3960759
-Ninja:2809260
 Mystic:0
+Archer:3960759

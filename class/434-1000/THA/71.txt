@@ -1,10 +1,10 @@
-Lancer:4
 Brawler:85
 Sorcerer:10
 Valkyrie:111
-Warrior:31
-Archer:12
 Priest:20
-Berserker:100
+Warrior:31
+Lancer:4
+Archer:12
 Reaper:3
 Mystic:69
+Berserker:100

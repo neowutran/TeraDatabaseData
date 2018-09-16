@@ -1,0 +1,7 @@
+Slayer:1
+Brawler:2
+Berserker:1
+Warrior:2
+Valkyrie:1
+Sorcerer:1
+Priest:2

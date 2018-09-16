@@ -1,0 +1,6 @@
+Berserker:6770571
+Slayer:3212064
+Lancer:2703301
+Warrior:4966604
+Archer:3559503
+Mystic:440737

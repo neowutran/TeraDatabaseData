@@ -1,0 +1,9 @@
+Reaper:3
+Mystic:10
+Berserker:12
+Slayer:9
+Priest:11
+Warrior:14
+Lancer:13
+Archer:15
+Brawler:18

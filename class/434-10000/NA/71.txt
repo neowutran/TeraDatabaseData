@@ -1,7 +1,8 @@
-Berserker:55
-Lancer:59
-Brawler:1
+Lancer:63
+Slayer:53
 Sorcerer:9
-Priest:59
-Slayer:49
+Priest:63
+Ninja:4
 Warrior:63
+Brawler:1
+Berserker:59

@@ -1,9 +1,9 @@
-Sorcerer:3
-Ninja:3
-Priest:4
-Brawler:2
 Warrior:4
 Valkyrie:1
 Mystic:1
-Reaper:2
+Priest:4
+Ninja:3
+Brawler:2
+Sorcerer:3
 Lancer:3
+Reaper:2

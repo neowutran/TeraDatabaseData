@@ -1,8 +1,8 @@
-Brawler:1
-Berserker:2
-Archer:2
 Gunner:3
-Priest:2
+Archer:2
 Ninja:4
+Priest:2
+Berserker:2
 Warrior:2
+Brawler:1
 Sorcerer:4
