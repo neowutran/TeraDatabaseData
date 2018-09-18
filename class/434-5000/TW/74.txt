@@ -1,0 +1,5 @@
+Priest:1
+Brawler:1
+Warrior:1
+Lancer:1
+Archer:1

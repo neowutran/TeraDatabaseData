@@ -1,9 +1,0 @@
-Priest:83401
-Ninja:0
-Valkyrie:4468653
-Reaper:5090450
-Gunner:3606953
-Slayer:4145236
-Sorcerer:2073319
-Warrior:6602981
-Berserker:5902507

@@ -1,8 +1,0 @@
-Lancer:8
-Mystic:14
-Valkyrie:15
-Priest:15
-Warrior:11
-Archer:5
-Sorcerer:6
-Brawler:11

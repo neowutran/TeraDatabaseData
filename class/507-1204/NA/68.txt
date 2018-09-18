@@ -1,2 +1,0 @@
-Priest:3
-Mystic:9

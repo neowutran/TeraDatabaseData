@@ -1,0 +1,10 @@
+Gunner:10
+Priest:2
+Brawler:1
+Valkyrie:3
+Lancer:2
+Ninja:2
+Archer:3
+Warrior:3
+Slayer:4
+Berserker:3

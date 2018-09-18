@@ -1,3 +1,0 @@
-Lancer:1
-Berserker:1
-Priest:2

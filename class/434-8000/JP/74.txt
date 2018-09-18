@@ -1,8 +1,9 @@
-Priest:40
+Warrior:104
+Priest:57
 Ninja:4
-Mystic:8
-Berserker:68
-Lancer:42
+Brawler:7
+Slayer:4
+Lancer:64
 Valkyrie:2
-Brawler:6
-Warrior:70
+Berserker:99
+Mystic:14

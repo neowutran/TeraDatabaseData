@@ -1,6 +1,0 @@
-Priest:3
-Slayer:6
-Berserker:6
-Lancer:7
-Mystic:1
-Warrior:1

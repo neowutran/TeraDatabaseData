@@ -1,4 +1,0 @@
-Berserker:71899869
-Warrior:435257529
-Priest:30382
-Lancer:844081

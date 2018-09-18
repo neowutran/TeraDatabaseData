@@ -1,4 +1,0 @@
-Sorcerer:1
-Lancer:4
-Brawler:1
-Gunner:3

@@ -1,5 +1,5 @@
+Lancer:2022408
+Slayer:4017177
+Berserker:5133658
 Warrior:5197929
 Priest:126029
-Slayer:4017177
-Lancer:2022408
-Berserker:5133658

@@ -1,0 +1,5 @@
+Priest:69721
+Warrior:5684701
+Lancer:2037954
+Archer:5378830
+Brawler:4948252

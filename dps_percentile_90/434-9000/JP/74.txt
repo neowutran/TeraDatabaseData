@@ -1,4 +1,4 @@
-Warrior:4268791
 Berserker:5301304
-Priest:126462
 Lancer:1797494
+Warrior:4268791
+Priest:126462

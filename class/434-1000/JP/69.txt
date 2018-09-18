@@ -1,4 +1,0 @@
-Lancer:1
-Valkyrie:1
-Mystic:1
-Sorcerer:2

@@ -1,6 +1,0 @@
-Priest:2
-Ninja:1
-Sorcerer:3
-Gunner:2
-Mystic:1
-Archer:1

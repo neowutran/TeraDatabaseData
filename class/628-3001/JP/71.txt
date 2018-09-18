@@ -1,9 +1,0 @@
-Priest:3
-Ninja:1
-Valkyrie:1
-Reaper:1
-Gunner:2
-Slayer:1
-Sorcerer:1
-Warrior:1
-Berserker:4

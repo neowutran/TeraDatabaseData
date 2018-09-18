@@ -1,5 +1,0 @@
-Reaper:3
-Warrior:3
-Priest:3
-Archer:3
-Lancer:3

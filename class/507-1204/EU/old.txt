@@ -1,0 +1,8 @@
+Ninja:3
+Slayer:424
+Berserker:585
+Brawler:1035
+Mystic:824
+Warrior:613
+Priest:669
+Lancer:691

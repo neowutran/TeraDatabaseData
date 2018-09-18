@@ -1,0 +1,9 @@
+Brawler:47
+Berserker:48
+Gunner:1
+Ninja:1
+Slayer:30
+Warrior:43
+Mystic:63
+Lancer:59
+Priest:54

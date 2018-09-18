@@ -1,5 +1,0 @@
-Warrior:1
-Reaper:1
-Priest:1
-Lancer:1
-Archer:1

@@ -1,5 +1,9 @@
-Lancer:1
-Warrior:1
-Sorcerer:1
-Mystic:1
+Brawler:2
 Berserker:1
+Sorcerer:1
+Lancer:1
+Archer:2
+Mystic:1
+Priest:2
+Valkyrie:4
+Warrior:1

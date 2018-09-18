@@ -1,0 +1,6 @@
+Lancer:982242
+Reaper:349014
+Brawler:653183
+Priest:13283
+Sorcerer:2462823
+Warrior:1023184

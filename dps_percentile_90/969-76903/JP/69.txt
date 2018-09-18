@@ -1,5 +1,0 @@
-Priest:55103
-Sorcerer:2679830
-Ninja:2034961
-Archer:3087537
-Lancer:511816

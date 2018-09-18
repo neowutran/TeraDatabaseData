@@ -1,4 +1,0 @@
-Priest:1127092
-Gunner:0
-Lancer:927165
-Berserker:2304555

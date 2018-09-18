@@ -1,5 +1,0 @@
-Priest:6
-Sorcerer:6
-Ninja:6
-Archer:6
-Lancer:6

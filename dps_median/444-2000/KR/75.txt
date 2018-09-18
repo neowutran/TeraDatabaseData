@@ -1,7 +1,0 @@
-Warrior:4669550
-Archer:4607455
-Priest:186154
-Mystic:363089
-Ninja:4351439
-Sorcerer:5396400
-Lancer:1819137

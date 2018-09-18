@@ -1,0 +1,9 @@
+Reaper:2
+Berserker:208
+Lancer:158
+Ninja:4
+Priest:164
+Slayer:88
+Warrior:112
+Sorcerer:60
+Brawler:24

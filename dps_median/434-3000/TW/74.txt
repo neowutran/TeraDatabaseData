@@ -1,9 +1,9 @@
-Lancer:1460369
-Mystic:350532
-Archer:3073312
-Brawler:1967184
-Berserker:3495024
-Warrior:3399377
-Reaper:1066410
+Lancer:1414937
+Brawler:1967384
 Slayer:2734363
-Priest:37603
+Mystic:324893
+Reaper:1066410
+Archer:2888999
+Warrior:3296952
+Berserker:3495024
+Priest:47896

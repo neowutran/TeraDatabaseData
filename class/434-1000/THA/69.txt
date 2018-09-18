@@ -1,9 +1,0 @@
-Archer:11
-Lancer:3
-Berserker:90
-Mystic:63
-Brawler:79
-Priest:19
-Sorcerer:10
-Warrior:30
-Valkyrie:105

@@ -1,7 +1,8 @@
-Lancer:23
-Slayer:4
-Priest:23
+Sorcerer:7
+Priest:31
+Lancer:30
+Warrior:29
 Archer:12
-Brawler:4
-Warrior:27
-Berserker:22
+Brawler:5
+Slayer:5
+Berserker:36

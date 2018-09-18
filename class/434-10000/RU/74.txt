@@ -1,4 +1,4 @@
-Warrior:13
-Mystic:19
-Berserker:44
-Lancer:19
+Warrior:15
+Berserker:48
+Mystic:21
+Lancer:21
