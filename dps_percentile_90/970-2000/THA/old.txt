@@ -1,12 +1,12 @@
 Lancer:1500701
-Priest:173474
-Ninja:2884985
-Mystic:449260
-Warrior:4293577
 Brawler:3909887
+Ninja:2884985
+Priest:173474
+Gunner:1426331
+Warrior:4293577
+Mystic:449260
 Sorcerer:2678696
 Valkyrie:3688282
 Archer:3696183
 Berserker:3169836
-Gunner:1426331
 Reaper:2191507

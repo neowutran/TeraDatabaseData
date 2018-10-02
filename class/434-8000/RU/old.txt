@@ -1,8 +1,8 @@
+Lancer:249
 Berserker:439
+Priest:5
 Archer:72
-Mystic:244
 Sorcerer:14
 Warrior:214
 Gunner:8
-Priest:5
-Lancer:249
+Mystic:244

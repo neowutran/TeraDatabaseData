@@ -1,4 +1,4 @@
+Warrior:3087728
+Mystic:426051
 Lancer:1605154
 Berserker:5428184
-Mystic:426051
-Warrior:3087728

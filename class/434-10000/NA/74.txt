@@ -1,5 +1,5 @@
-Lancer:4
-Slayer:4
-Berserker:4
-Warrior:4
 Priest:4
+Slayer:4
+Warrior:4
+Lancer:4
+Berserker:4

@@ -1,8 +1,8 @@
-Priest:131578
-Sorcerer:3179442
-Warrior:4546473
+Brawler:3146342
+Berserker:4586699
+Lancer:1924683
 Ninja:2759634
 Slayer:4353798
-Berserker:4586699
-Brawler:3146342
-Lancer:1924683
+Priest:131578
+Warrior:4546473
+Sorcerer:3179442

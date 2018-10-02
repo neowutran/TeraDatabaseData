@@ -1,0 +1,7 @@
+Berserker:4
+Ninja:14
+Mystic:4
+Lancer:5
+Priest:5
+Brawler:4
+Warrior:9

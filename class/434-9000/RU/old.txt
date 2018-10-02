@@ -1,5 +1,5 @@
+Mystic:67
 Archer:15
+Berserker:142
 Warrior:44
 Lancer:67
-Mystic:67
-Berserker:142

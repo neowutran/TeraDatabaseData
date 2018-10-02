@@ -1,10 +1,10 @@
 Berserker:5002740
-Slayer:5499439
-Ninja:3647560
+Archer:3825633
 Gunner:3245985
 Sorcerer:4156804
-Lancer:2425129
 Brawler:4504194
-Archer:3825633
+Lancer:2425129
+Ninja:3647560
 Priest:148152
 Warrior:4792694
+Slayer:5499439

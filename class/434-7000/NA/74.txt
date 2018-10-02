@@ -1,7 +1,7 @@
 Slayer:5
-Priest:15
 Lancer:14
+Sorcerer:3
+Priest:15
+Berserker:16
 Brawler:5
 Warrior:17
-Berserker:16
-Sorcerer:3

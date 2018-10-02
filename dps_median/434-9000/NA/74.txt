@@ -1,5 +1,5 @@
 Priest:93693
-Lancer:1947291
 Warrior:4021507
-Berserker:4103964
 Slayer:3051441
+Lancer:1947291
+Berserker:4103964

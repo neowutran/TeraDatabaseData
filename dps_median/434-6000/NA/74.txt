@@ -1,8 +1,8 @@
+Warrior:6216941
+Brawler:7154221
+Berserker:9398770
+Archer:6258305
+Lancer:4103907
 Sorcerer:7424463
 Priest:176066
-Lancer:4103907
-Warrior:6216941
-Archer:6258305
-Brawler:7154221
 Slayer:8709564
-Berserker:9398770

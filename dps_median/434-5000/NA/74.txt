@@ -1,8 +1,8 @@
-Archer:4360047
-Berserker:6381282
-Warrior:4875206
 Lancer:2451565
-Priest:166208
-Slayer:4815733
+Warrior:4875206
+Archer:4360047
 Sorcerer:4366482
+Slayer:4815733
+Berserker:6381282
 Brawler:3389827
+Priest:166208

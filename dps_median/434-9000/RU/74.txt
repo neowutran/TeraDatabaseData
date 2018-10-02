@@ -1,4 +1,7 @@
-Lancer:2361413
-Warrior:4317249
-Berserker:5150098
-Mystic:150980
+Archer:3737491
+Berserker:5395070
+Lancer:2273770
+Warrior:4602241
+Slayer:3127968
+Mystic:148335
+Gunner:2985372

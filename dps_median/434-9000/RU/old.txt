@@ -1,5 +1,5 @@
+Mystic:139936
 Archer:2919765
+Berserker:4413682
 Warrior:3912601
 Lancer:1847427
-Mystic:139936
-Berserker:4413682

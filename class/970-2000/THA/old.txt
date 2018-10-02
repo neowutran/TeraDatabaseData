@@ -1,12 +1,12 @@
 Lancer:129
-Priest:177
-Ninja:53
-Mystic:169
-Warrior:158
 Brawler:120
+Ninja:53
+Priest:177
+Gunner:4
+Warrior:158
+Mystic:169
 Sorcerer:80
 Valkyrie:126
 Archer:49
 Berserker:165
-Gunner:4
 Reaper:5
