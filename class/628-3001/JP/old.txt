@@ -1,10 +1,10 @@
-Reaper:1
+Ninja:1
 Berserker:5
 Sorcerer:1
-Ninja:1
-Lancer:1
-Slayer:1
-Valkyrie:1
 Warrior:1
-Priest:5
+Lancer:1
 Gunner:2
+Valkyrie:1
+Reaper:1
+Slayer:1
+Priest:5

@@ -1,8 +1,8 @@
-Brawler:1158
-Reaper:3
-Berserker:682
-Priest:826
-Warrior:937
-Mystic:972
-Slayer:566
 Lancer:803
+Berserker:682
+Mystic:972
+Brawler:1158
+Slayer:566
+Warrior:937
+Priest:826
+Reaper:3

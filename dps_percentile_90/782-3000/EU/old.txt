@@ -1,0 +1,5 @@
+Priest:71846
+Archer:2643252
+Brawler:3293583
+Reaper:2003408
+Warrior:3612438

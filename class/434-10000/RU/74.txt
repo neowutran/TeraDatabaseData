@@ -1,7 +1,0 @@
-Lancer:103
-Slayer:2
-Warrior:93
-Berserker:209
-Mystic:103
-Archer:3
-Gunner:2

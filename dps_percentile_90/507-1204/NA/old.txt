@@ -1,8 +1,8 @@
-Brawler:1653065
-Reaper:0
-Berserker:1062154
-Priest:902639
-Warrior:1582884
-Mystic:1081513
-Slayer:1046746
 Lancer:1013562
+Berserker:1062154
+Mystic:1081513
+Brawler:1653065
+Slayer:1046746
+Warrior:1582884
+Priest:902639
+Reaper:0

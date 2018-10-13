@@ -1,6 +1,6 @@
-Berserker:9
-Archer:1
+Priest:4
 Brawler:1
 Warrior:1
-Priest:4
 Lancer:4
+Archer:1
+Berserker:9

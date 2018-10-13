@@ -1,0 +1,5 @@
+Archer:1
+Reaper:1
+Warrior:1
+Brawler:1
+Priest:1

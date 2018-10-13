@@ -1,9 +1,9 @@
-Mystic:63
-Berserker:48
-Gunner:1
 Slayer:30
-Warrior:43
-Brawler:47
-Lancer:59
 Priest:54
+Lancer:59
+Mystic:63
 Ninja:1
+Gunner:1
+Brawler:47
+Warrior:43
+Berserker:48

@@ -1,0 +1,13 @@
+Brawler:2693355
+Reaper:3001385
+Mystic:419493
+Warrior:3263095
+Ninja:2763690
+Valkyrie:3028868
+Gunner:2681009
+Slayer:3289883
+Lancer:1491467
+Archer:3450455
+Sorcerer:2974487
+Priest:73278
+Berserker:3041995

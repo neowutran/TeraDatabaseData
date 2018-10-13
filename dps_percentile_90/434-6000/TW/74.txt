@@ -1,6 +1,6 @@
-Archer:5378830
+Brawler:4948252
+Lancer:3117587
 Warrior:5684701
 Priest:88977
-Lancer:3117587
-Brawler:4948252
 Berserker:8654345
+Archer:5378830

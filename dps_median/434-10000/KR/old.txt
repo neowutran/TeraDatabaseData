@@ -1,9 +1,9 @@
-Brawler:2954245
+Slayer:4475389
+Berserker:4521611
+Sorcerer:3252254
+Warrior:3380721
 Lancer:1640919
 Priest:142623
 Ninja:5005376
-Sorcerer:3252254
-Warrior:3380721
-Slayer:4475389
-Berserker:4521611
 Mystic:218283
+Brawler:2954245

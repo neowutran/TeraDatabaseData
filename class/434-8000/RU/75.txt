@@ -1,0 +1,5 @@
+Mystic:12
+Gunner:4
+Warrior:4
+Lancer:12
+Berserker:28

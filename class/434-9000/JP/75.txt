@@ -1,0 +1,4 @@
+Lancer:3
+Warrior:3
+Mystic:3
+Berserker:6
