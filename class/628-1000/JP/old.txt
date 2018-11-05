@@ -1,11 +1,11 @@
+Archer:2
+Priest:8
+Valkyrie:1
+Lancer:2
+Warrior:1
 Reaper:2
 Slayer:2
-Priest:8
-Sorcerer:1
 Mystic:1
-Warrior:1
-Lancer:2
 Berserker:6
+Sorcerer:1
 Gunner:6
-Valkyrie:1
-Archer:2

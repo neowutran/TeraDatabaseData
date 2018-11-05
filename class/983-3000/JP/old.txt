@@ -1,11 +1,11 @@
-Warrior:4
 Priest:7
 Ninja:3
+Reaper:3
 Valkyrie:2
 Archer:9
-Brawler:6
+Warrior:4
 Gunner:3
+Brawler:6
 Berserker:6
 Lancer:4
-Reaper:3
 Mystic:3

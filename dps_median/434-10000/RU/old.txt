@@ -1,8 +1,8 @@
-Archer:2991665
-Gunner:2723119
 Reaper:2886619
-Warrior:4232515
-Slayer:4846889
 Lancer:1697686
-Berserker:5449824
 Mystic:223477
+Gunner:2723119
+Berserker:5449824
+Slayer:4846889
+Archer:2991665
+Warrior:4232515

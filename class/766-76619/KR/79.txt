@@ -1,0 +1,7 @@
+Priest:2
+Lancer:1
+Archer:1
+Brawler:1
+Berserker:1
+Sorcerer:2
+Gunner:2

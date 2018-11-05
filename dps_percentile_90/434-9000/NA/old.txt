@@ -1,9 +1,9 @@
-Slayer:5063237
-Berserker:4690626
-Warrior:4984710
-Sorcerer:3254255
-Ninja:2215060
 Priest:153071
+Berserker:4690626
+Sorcerer:3254255
 Reaper:3094286
 Brawler:3524095
+Slayer:5063237
+Ninja:2215060
 Lancer:2364742
+Warrior:4984710

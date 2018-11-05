@@ -1,0 +1,5 @@
+Valkyrie:2
+Priest:2
+Mystic:2
+Lancer:2
+Berserker:2

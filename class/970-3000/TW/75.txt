@@ -1,0 +1,8 @@
+Valkyrie:4
+Ninja:2
+Priest:8
+Gunner:2
+Warrior:6
+Archer:8
+Lancer:6
+Mystic:4

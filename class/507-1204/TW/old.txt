@@ -1,7 +1,7 @@
-Lancer:99
+Priest:129
 Brawler:251
 Slayer:79
 Mystic:189
-Priest:129
 Warrior:153
+Lancer:99
 Berserker:69

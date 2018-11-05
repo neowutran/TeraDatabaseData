@@ -1,6 +1,6 @@
-Warrior:214
 Priest:117
+Warrior:214
 Lancer:115
-Mystic:14
 Berserker:179
 Brawler:16
+Mystic:14

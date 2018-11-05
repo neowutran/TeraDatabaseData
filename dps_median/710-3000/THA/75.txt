@@ -1,0 +1,5 @@
+Priest:50626
+Brawler:1308289
+Slayer:247721
+Sorcerer:737239
+Valkyrie:838046

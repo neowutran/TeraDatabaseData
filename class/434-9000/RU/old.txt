@@ -1,8 +1,8 @@
-Gunner:3
-Archer:18
-Berserker:530
-Warrior:196
-Reaper:14
 Slayer:7
+Berserker:530
 Lancer:256
+Archer:18
+Gunner:3
+Reaper:14
 Mystic:256
+Warrior:196

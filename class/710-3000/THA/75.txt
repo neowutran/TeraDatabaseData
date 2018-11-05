@@ -1,0 +1,5 @@
+Priest:3
+Brawler:3
+Slayer:3
+Sorcerer:3
+Valkyrie:3

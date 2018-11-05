@@ -1,9 +1,0 @@
-Brawler:41
-Priest:21
-Slayer:10
-Warrior:30
-Lancer:38
-Berserker:23
-Archer:43
-Mystic:26
-Reaper:3
