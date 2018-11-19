@@ -1,0 +1,5 @@
+Priest:32263
+Slayer:1159236
+Sorcerer:2192000
+Gunner:1653552
+Brawler:1044374

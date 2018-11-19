@@ -1,0 +1,5 @@
+Mystic:236443
+Warrior:974824
+Lancer:502678
+Sorcerer:2799004
+Gunner:1844746

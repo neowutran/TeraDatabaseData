@@ -1,0 +1,5 @@
+Sorcerer:4
+Archer:4
+Priest:4
+Warrior:4
+Lancer:4

@@ -1,10 +1,10 @@
-Brawler:326
-Valkyrie:301
-Berserker:283
-Ninja:94
 Archer:146
-Mystic:337
-Sorcerer:112
-Priest:222
+Berserker:283
+Brawler:326
 Lancer:116
+Mystic:337
+Ninja:94
 Warrior:203
+Priest:222
+Valkyrie:301
+Sorcerer:112

@@ -1,0 +1,10 @@
+Slayer:2
+Brawler:5
+Ninja:1
+Valkyrie:4
+Archer:1
+Mystic:2
+Sorcerer:2
+Priest:3
+Warrior:1
+Reaper:4

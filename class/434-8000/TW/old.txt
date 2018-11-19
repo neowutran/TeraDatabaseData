@@ -1,4 +1,4 @@
 Lancer:3
-Berserker:8
 Mystic:3
+Berserker:8
 Warrior:1

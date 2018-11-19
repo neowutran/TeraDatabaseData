@@ -1,0 +1,5 @@
+Brawler:2530411
+Gunner:2411093
+Priest:72186
+Archer:781510
+Slayer:779975

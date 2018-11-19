@@ -1,0 +1,4 @@
+Lancer:1
+Mystic:1
+Gunner:1
+Warrior:2

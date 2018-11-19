@@ -1,0 +1,5 @@
+Ninja:2
+Slayer:1
+Priest:2
+Lancer:2
+Gunner:3

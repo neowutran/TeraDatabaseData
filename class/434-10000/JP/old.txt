@@ -1,4 +1,6 @@
-Lancer:9
-Priest:9
-Warrior:14
-Berserker:13
+Berserker:16
+Lancer:17
+Ninja:8
+Warrior:22
+Slayer:5
+Priest:17

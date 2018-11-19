@@ -1,10 +1,10 @@
 Valkyrie:2249283
-Gunner:1129357
 Slayer:215192
-Lancer:1363700
+Gunner:1129357
+Ninja:283765
 Priest:123686
 Warrior:944830
+Lancer:1363700
 Brawler:1405573
 Sorcerer:309460
-Ninja:283765
 Archer:1747969

@@ -1,0 +1,4 @@
+Lancer:1582598
+Mystic:325447
+Gunner:2472576
+Warrior:4516823

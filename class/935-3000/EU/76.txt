@@ -1,0 +1,5 @@
+Ninja:4
+Archer:4
+Brawler:4
+Gunner:4
+Priest:4

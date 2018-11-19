@@ -1,9 +1,9 @@
-Sorcerer:1716893
-Priest:49661
-Slayer:3582431
-Berserker:3997175
-Gunner:3538432
-Reaper:5111789
-Valkyrie:2808332
-Warrior:4364848
 Mystic:399453
+Sorcerer:1716893
+Gunner:3538432
+Slayer:3582431
+Valkyrie:2808332
+Reaper:5111789
+Priest:49661
+Warrior:4364848
+Berserker:3997175

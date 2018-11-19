@@ -1,0 +1,5 @@
+Valkyrie:2471575
+Gunner:3362373
+Berserker:2949860
+Lancer:886319
+Mystic:266307

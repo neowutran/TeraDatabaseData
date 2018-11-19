@@ -1,0 +1,7 @@
+Gunner:2290275
+Ninja:2586674
+Warrior:1608205
+Mystic:480741
+Brawler:2179835
+Sorcerer:2849539
+Priest:7599

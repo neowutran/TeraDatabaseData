@@ -1,0 +1,5 @@
+Lancer:829743
+Priest:44456
+Slayer:4393582
+Ninja:1834158
+Gunner:2697519

@@ -1,0 +1,5 @@
+Brawler:2273055
+Ninja:845468
+Mystic:571104
+Slayer:3303449
+Warrior:3037362

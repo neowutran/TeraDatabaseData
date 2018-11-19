@@ -1,0 +1,7 @@
+Lancer:1
+Warrior:1
+Brawler:1
+Priest:1
+Mystic:1
+Ninja:3
+Slayer:2

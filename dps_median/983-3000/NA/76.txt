@@ -1,0 +1,13 @@
+Archer:0
+Brawler:0
+Valkyrie:0
+Gunner:0
+Slayer:0
+Priest:0
+Reaper:0
+Lancer:0
+Ninja:0
+Mystic:0
+Sorcerer:0
+Warrior:0
+Berserker:0

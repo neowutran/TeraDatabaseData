@@ -1,0 +1,4 @@
+Berserker:18
+Mystic:9
+Gunner:9
+Lancer:9

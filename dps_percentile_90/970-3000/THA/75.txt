@@ -1,5 +1,5 @@
-Valkyrie:3374087
 Priest:156211
-Mystic:106238
 Lancer:921766
+Valkyrie:3374087
+Mystic:106238
 Berserker:2843471

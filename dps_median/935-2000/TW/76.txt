@@ -1,0 +1,4 @@
+Warrior:4622713
+Lancer:568589
+Priest:54611
+Gunner:3554541

@@ -1,8 +1,0 @@
-Ninja:4319589
-Slayer:2942337
-Warrior:3919716
-Archer:3820895
-Mystic:288170
-Berserker:4188509
-Priest:81314
-Lancer:2083129

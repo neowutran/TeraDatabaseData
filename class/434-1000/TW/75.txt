@@ -1,7 +1,0 @@
-Berserker:10
-Priest:4
-Warrior:2
-Archer:4
-Brawler:6
-Gunner:2
-Mystic:2

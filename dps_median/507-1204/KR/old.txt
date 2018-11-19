@@ -1,9 +1,9 @@
+Berserker:403476
+Mystic:723947
 Ninja:706319
 Gunner:700953
-Berserker:403476
-Warrior:686208
-Priest:324928
 Slayer:737167
+Priest:324928
+Warrior:686208
 Lancer:538004
 Brawler:1161592
-Mystic:723947

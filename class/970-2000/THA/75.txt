@@ -1,5 +1,10 @@
-Berserker:2
-Lancer:2
 Priest:2
-Valkyrie:2
-Mystic:2
+Berserker:3
+Warrior:2
+Brawler:1
+Sorcerer:1
+Reaper:2
+Mystic:5
+Lancer:4
+Valkyrie:4
+Ninja:1

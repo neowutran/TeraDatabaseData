@@ -1,7 +1,7 @@
 Archer:3268908
-Berserker:4383959
-Ninja:3431348
+Sorcerer:3849407
 Brawler:3261106
+Ninja:3431348
+Berserker:4383959
 Mystic:510194
 Valkyrie:4370227
-Sorcerer:3849407

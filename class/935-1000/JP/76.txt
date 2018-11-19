@@ -1,0 +1,5 @@
+Priest:3
+Slayer:3
+Gunner:3
+Archer:3
+Brawler:3

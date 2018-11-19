@@ -1,0 +1,4 @@
+Reaper:2
+Priest:2
+Lancer:2
+Archer:4

@@ -1,0 +1,4 @@
+Berserker:4
+Lancer:2
+Mystic:2
+Slayer:2

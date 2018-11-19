@@ -1,7 +1,7 @@
-Gunner:3
 Priest:3
-Lancer:3
-Ninja:3
 Berserker:6
+Gunner:3
+Ninja:3
 Archer:3
+Lancer:3
 Reaper:3

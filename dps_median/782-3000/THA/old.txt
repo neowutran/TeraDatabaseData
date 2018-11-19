@@ -1,11 +1,11 @@
-Gunner:1691333
-Priest:75828
+Brawler:1952353
 Mystic:225848
-Ninja:1743396
 Archer:1936936
+Gunner:1691333
+Ninja:1743396
+Warrior:2516893
+Valkyrie:2385750
 Berserker:2781561
 Lancer:1076039
+Priest:75828
 Sorcerer:1351678
-Valkyrie:2385750
-Brawler:1952353
-Warrior:2516893

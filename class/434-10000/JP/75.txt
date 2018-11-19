@@ -1,5 +1,0 @@
-Warrior:5
-Priest:5
-Lancer:5
-Ninja:5
-Slayer:5

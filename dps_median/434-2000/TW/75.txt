@@ -1,5 +1,0 @@
-Brawler:2030916
-Mystic:362254
-Warrior:3627541
-Berserker:1826834
-Gunner:3615972

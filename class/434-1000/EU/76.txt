@@ -1,0 +1,5 @@
+Reaper:10
+Lancer:10
+Berserker:10
+Archer:10
+Mystic:10

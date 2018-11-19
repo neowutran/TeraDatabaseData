@@ -1,0 +1,5 @@
+Mystic:139880
+Sorcerer:1628093
+Berserker:1032149
+Gunner:656245
+Brawler:650826

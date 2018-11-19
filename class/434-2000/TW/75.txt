@@ -1,5 +1,0 @@
-Brawler:2
-Mystic:2
-Warrior:2
-Berserker:2
-Gunner:2

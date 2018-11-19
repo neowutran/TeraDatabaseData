@@ -1,0 +1,5 @@
+Priest:6
+Slayer:6
+Sorcerer:6
+Gunner:6
+Brawler:6

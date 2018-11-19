@@ -1,0 +1,8 @@
+Lancer:70101
+Slayer:48270
+Valkyrie:219
+Warrior:81286
+Mystic:0
+Archer:62851
+Berserker:76672
+Priest:76903
