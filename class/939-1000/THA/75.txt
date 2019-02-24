@@ -1,10 +1,10 @@
-Warrior:17
+Mystic:3
+Priest:8
+Valkyrie:3
 Brawler:7
 Reaper:3
 Archer:2
-Mystic:3
 Lancer:2
-Priest:8
-Sorcerer:3
 Gunner:7
-Valkyrie:3
+Warrior:17
+Sorcerer:3

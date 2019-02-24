@@ -1,11 +1,11 @@
+Valkyrie:7
 Warrior:24
-Archer:12
 Gunner:2
-Lancer:16
 Priest:7
-Ninja:4
-Sorcerer:4
-Brawler:4
 Berserker:3
 Mystic:17
-Valkyrie:7
+Ninja:4
+Sorcerer:4
+Archer:12
+Brawler:4
+Lancer:16

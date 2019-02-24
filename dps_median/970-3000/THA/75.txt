@@ -1,5 +1,5 @@
-Lancer:1153675
-Archer:3202096
 Gunner:4791746
+Lancer:1153675
 Ninja:5686925
 Mystic:324165
+Archer:3202096
