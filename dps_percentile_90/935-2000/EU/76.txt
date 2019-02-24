@@ -1,5 +1,0 @@
-Brawler:2449336
-Archer:2624036
-Ninja:974693
-Priest:78328
-Gunner:2492732

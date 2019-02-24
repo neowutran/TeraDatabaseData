@@ -1,9 +1,0 @@
-Mystic:2
-Sorcerer:1
-Gunner:2
-Slayer:2
-Valkyrie:1
-Reaper:2
-Priest:3
-Warrior:1
-Berserker:4

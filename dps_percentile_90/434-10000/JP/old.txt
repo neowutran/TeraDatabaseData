@@ -1,6 +1,0 @@
-Berserker:5011823
-Lancer:1938277
-Ninja:4818290
-Warrior:4114563
-Slayer:3440075
-Priest:114609

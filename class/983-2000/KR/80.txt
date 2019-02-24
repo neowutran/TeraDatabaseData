@@ -1,0 +1,13 @@
+Mystic:47
+Lancer:114
+Brawler:56
+Slayer:63
+Warrior:70
+Berserker:32
+Sorcerer:79
+Valkyrie:18
+Priest:125
+Gunner:48
+Reaper:12
+Archer:144
+Ninja:52

@@ -1,5 +1,0 @@
-Gunner:7172739
-Priest:109160
-Valkyrie:4723666
-Berserker:5898783
-Lancer:2645087

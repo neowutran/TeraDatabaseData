@@ -1,9 +1,0 @@
-Valkyrie:1330007
-Archer:2081290
-Mystic:27551
-Reaper:1995075
-Lancer:381700
-Brawler:952242
-Berserker:2446500
-Gunner:719383
-Warrior:1279276

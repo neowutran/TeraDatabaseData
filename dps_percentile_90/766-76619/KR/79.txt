@@ -1,7 +1,0 @@
-Berserker:679992
-Priest:51152
-Lancer:176448
-Sorcerer:977501
-Archer:989230
-Gunner:818808
-Brawler:617166

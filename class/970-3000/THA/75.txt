@@ -1,5 +1,5 @@
-Priest:2
-Lancer:2
-Valkyrie:2
-Mystic:2
-Berserker:2
+Lancer:4
+Archer:4
+Gunner:4
+Ninja:4
+Mystic:4

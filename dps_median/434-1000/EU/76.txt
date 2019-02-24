@@ -1,5 +1,0 @@
-Reaper:4441737
-Lancer:2338009
-Berserker:5651311
-Archer:6667370
-Mystic:423662

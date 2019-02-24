@@ -1,8 +1,0 @@
-Archer:2190301
-Sorcerer:984652
-Lancer:706376
-Reaper:264031
-Berserker:1764802
-Valkyrie:559650
-Ninja:1959232
-Gunner:6151002

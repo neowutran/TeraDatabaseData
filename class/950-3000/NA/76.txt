@@ -1,9 +1,0 @@
-Lancer:28
-Valkyrie:42
-Brawler:42
-Warrior:14
-Priest:42
-Ninja:28
-Mystic:28
-Gunner:14
-Archer:28

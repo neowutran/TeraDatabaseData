@@ -1,8 +1,0 @@
-Archer:10
-Mystic:10
-Berserker:10
-Lancer:15
-Reaper:10
-Priest:5
-Warrior:10
-Sorcerer:5

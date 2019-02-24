@@ -1,8 +1,0 @@
-Berserker:4204240
-Priest:86363
-Brawler:3277921
-Archer:4478121
-Gunner:4455546
-Mystic:302514
-Warrior:3567981
-Valkyrie:4843027

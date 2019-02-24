@@ -1,5 +1,0 @@
-Gunner:4
-Berserker:4
-Lancer:4
-Valkyrie:4
-Priest:4
