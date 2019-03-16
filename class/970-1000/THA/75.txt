@@ -1,5 +1,5 @@
-Lancer:4
-Ninja:4
-Archer:4
-Gunner:4
-Mystic:4
+Ninja:12
+Gunner:12
+Lancer:12
+Mystic:12
+Archer:12

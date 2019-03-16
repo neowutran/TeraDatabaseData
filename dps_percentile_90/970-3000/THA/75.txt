@@ -1,5 +1,5 @@
-Gunner:4792606
-Lancer:1153882
-Ninja:5687946
-Mystic:325608
-Archer:3202670
+Lancer:1745224
+Ninja:8323396
+Gunner:6125532
+Archer:4879595
+Mystic:480318

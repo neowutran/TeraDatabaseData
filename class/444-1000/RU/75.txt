@@ -1,0 +1,5 @@
+Priest:1
+Brawler:1
+Warrior:1
+Berserker:1
+Valkyrie:1

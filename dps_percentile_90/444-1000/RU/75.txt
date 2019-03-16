@@ -1,0 +1,5 @@
+Priest:130656
+Brawler:3410058
+Warrior:3881650
+Berserker:2214482
+Valkyrie:3348432
