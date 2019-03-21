@@ -1,5 +1,5 @@
-Gunner:6793180
-Lancer:1974141
-Ninja:13871123
-Mystic:475446
 Archer:5160065
+Mystic:475446
+Gunner:6793180
+Ninja:13871123
+Lancer:1974141

@@ -1,5 +1,5 @@
+Mystic:11
+Archer:11
+Gunner:11
 Lancer:11
 Ninja:11
-Gunner:11
-Archer:11
-Mystic:11
