@@ -1,0 +1,7 @@
+Lancer:32
+Priest:26
+Sorcerer:29
+Gunner:17
+Mystic:6
+Ninja:14
+Warrior:31

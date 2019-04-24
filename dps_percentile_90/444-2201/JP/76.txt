@@ -1,0 +1,7 @@
+Lancer:68952
+Priest:4378
+Sorcerer:62374
+Gunner:66932
+Mystic:5326
+Ninja:50289
+Warrior:82318
